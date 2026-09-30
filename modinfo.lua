@@ -1,0 +1,11 @@
+name = "Speed Mod"
+description = "This simple mod gives your character a slight speed boost to help you explore the map, gather resources, and escape danger a little faster"
+author = "Khattab"
+version = "1.0"
+api_version = 10
+dst_compatible = true
+all_clients_require_mod = true
+client_only_mod = false
+icon_atlas = "icon.xml"
+icon = "icon.tex"
+tags = {"DST", "Speed"}
