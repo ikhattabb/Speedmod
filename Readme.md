@@ -6,9 +6,9 @@ A lightweight and clean mod for **Don't Starve Together (DST)** that grants play
 
 ## ✨ Features
 
-* **Gotta Go Fast:** Enjoy a subtle yet impactful speed multiplier ($1.1\times$) across all characters[cite: 1, 2].
+* **Gotta Go Fast:** Enjoy a subtle yet impactful speed multiplier ($1.1\times$) across all characters.
 * **Clean & Lightweight:** Optimized using native `SetExternalSpeedMultiplier` without modifying base mechanics.
-* **Multiplayer Compatible:** Fully works on dedicated servers and host sessions[cite: 1].
+* **Multiplayer Compatible:** Fully works on dedicated servers and host sessions.
 
 ---
 
@@ -17,16 +17,16 @@ A lightweight and clean mod for **Don't Starve Together (DST)** that grants play
 1. Download or clone this repository.
 2. Place the project folder into your DST mods directory:
    * **Windows:** `C:\Program Files (steam)\steamapps\common\Don't Starve Together\mods\`
-3. Enable **Speed Mod** from the in-game **Mods** menu[cite: 1].
+3. Enable **Speed Mod** from the in-game **Mods** menu.
 
 ---
 
 ## 📜 Mod Info
 
-* **Author:** Khattab[cite: 1]
-* **Version:** 1.0[cite: 1]
-* **API Version:** 10[cite: 1]
-* **Tags:** `DST`, `Speed`[cite: 1]
+* **Author:** Khattab
+* **Version:** 1.0
+* **API Version:** 10
+* **Tags:** `DST`, `Speed`
 
 ---
 
